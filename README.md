@@ -1,7 +1,12 @@
-Developed a Heart Disease Prediction model using machine learning techniques to assess the likelihood of heart disease based on relevant features.
+- Developed and conducted research on Heart Disease Prediction using various machine learning 
+techniques to forecast heart disease based on the 13 attributes from the UCI repository dataset.
 
-Conducted thorough data preprocessing, feature selection, and model training with a focus on popular algorithms like Logistic Regression and Random Forest.
-Demonstrated strong data analysis skills through exploratory data analysis, visualizations, and model evaluation, showcasing accuracy and performance metrics.
+- Implemented thorough data preprocessing, feature selection and model training utilizing algorithms 
+such as Logistic Regression, KNN, Random Forest, Naïve Bayes, SVM and Decision Tree.
+
+- Demonstrated strong analytical skills through EDA, data visualizations and accurate model 
+evaluation. I was able to enhance the model accuracy to (90%) compared to previous research papers
+by performing hyperparameter tuning focusing on the random state in the Random Forest technique.
 
 Technologies and Future Work:
 
